@@ -375,6 +375,10 @@ p {
   padding-top: 270px;
 }
 
+.pt-450 {
+  padding-top: 450px;
+}
+
 /* btn */
 .z-btn {
   display: inline-block;
