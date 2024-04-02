@@ -2185,14 +2185,7 @@ p {
     margin-top: 350px;
   }
 }
-.services__item {
-  padding-right: 45px;
-}
-@media only screen and (min-width: 992px) and (max-width: 1199px) {
-  .services__item {
-    padding-right: 15px;
-  }
-}
+
 .services__item:hover .services__icon img {
   -webkit-transform: translate3d(0, -10px, 0);
   -moz-transform: translate3d(0, -10px, 0);
