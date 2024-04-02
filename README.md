@@ -1,3 +1,3 @@
 # LAMYE 官网
 
-🌐link: business-lamye.vercel.app
+🌐Link: https://business-lamye.vercel.app/
